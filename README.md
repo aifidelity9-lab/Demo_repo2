@@ -8,6 +8,8 @@ This is a project to show me how to setup a local repo
 - Feature 2
 - Feature 3
 
+1. open index.html in your browser
+
 ## Installation
 ```bash
 npm install
